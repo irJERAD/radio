@@ -12,3 +12,5 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+Exploring the world through the portal in my mind; navigating the universe in radiation injected confines of my quantum dock exibited room; Chameleon skinned, know me and know the world; Know yourself and know the universe.

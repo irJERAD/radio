@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishment"
 subtitle = ""
 
 # Date format
@@ -21,31 +21,31 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  title = "Developing Data Products"
+  url = "https://coursera.org/share/cb6d00ddb0440f049013ec9d60a8d68e"
+  certificate_url = "https://coursera.org/share/cb6d00ddb0440f049013ec9d60a8d68e"
+  date_start = "2013-10-01"
+  date_end = "2015-09-29"
+  description = "In the Data Science program at Johns Hopkins, this course focuses on creating webapp deliverables that perform analytics machine learning and work with API for real-time data pipes."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  organization = ""
+  organization_url = ""
+  title = ""
+  url = ""
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = ""
+  organization_url = ""
+  title = ""
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
   description = ""
 
 +++
