@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "Dec 2019"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -24,13 +24,18 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2019-05-26"
   date_end = "Current"
-  description = """sent around in deceit from here to forever after. Waisting days like dimes. Sipping back on time."""
+  description = 
+    """
+      sent around in deceit from here to forever after. 
+      Waisting days like dimes. 
+      Sipping back on time.
+    """
   Responsibilities include:
-  
-  * Wondering
-  * Excusing
-  * Present Self
-  """
+    """
+      * Wondering  
+      * Excusing  
+      * Present Self  
+    """
 
 [[experience]]
   title = "Driver"
