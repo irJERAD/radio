@@ -24,12 +24,11 @@ date_format = "Dec 2019"
   location = "California"
   date_start = "2019-05-26"
   date_end = "Current"
-  description = """Sent around in deceit from here to forever after. Waisting days like dimes. Sipping back on time."""
+  description = """
   Responsibilities include =
-    """
-      * Wondering  
-      * Excusing  
-      * Present Self  
+    * Wondering  
+    * Excusing  
+    * Present Self
     """
 
 [[experience]]
@@ -39,6 +38,6 @@ date_format = "Dec 2019"
   location = "California"
   date_start = "2019-05-26"
   date_end = "Current"
-  description = """Saved Lives and Date Nights getting clients from A point to B there, on time."""
+  description = """Sent around in deceit from here to forever after. Waisting days like dimes. Sipping back on time."""
 
 +++
