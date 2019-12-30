@@ -24,9 +24,8 @@ date_format = "Dec 2019"
   location = "California"
   date_start = "2019-05-26"
   date_end = "Current"
-  description = """Sent around in deceit from here to forever after. Waisting days like dimes. Sipping back on time.
-    """
-  Responsibilities include:
+  description = """Sent around in deceit from here to forever after. Waisting days like dimes. Sipping back on time."""
+  Responsibilities include =
     """
       * Wondering  
       * Excusing  
