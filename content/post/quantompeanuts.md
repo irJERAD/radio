@@ -1,15 +1,13 @@
 ---
-title: "Quantum Peanut"
+title: Quantum Peanut
 categories:
 - Food
 date: "2019-05-14T14:46:10+06:00"
-description: "The little switches on the switchless"
-image: images/masonary-post/post-12.jpg
+description: The little switches on the switchless
+image:
 tags:
-- Photos
-- Food
-title: Charming Evening Field
-type: post
+- brain
+- quantom
 ---
 
 The little switches
